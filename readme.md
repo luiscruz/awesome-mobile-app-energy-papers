@@ -36,7 +36,14 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 ### 2012
 
-- Pathak, Abhinav Hu, Y. Charlie and Zhang, Ming. **Where is the energy spent inside my app?: fine grained energy accounting on smartphones with Eprof**. EuroSys. 2012 [![DOI](https://zenodo.org/badge/doi/10.1145/2168836.2168841.svg)](https://doi.org/10.1145/2168836.2168841)
+- Abhinav Pathak, Y. Charlie Hu, Ming Zhang. **Where is the energy spent inside my app?: fine grained energy accounting on smartphones with Eprof**. EuroSys. 2012 [![DOI](https://zenodo.org/badge/doi/10.1145/2168836.2168841.svg)](https://doi.org/10.1145/2168836.2168841)
+
+### 2011
+
+- Abhinav Pathak, Y. Charlie Hu, Ming Zhang, Paramvir Bahl, Yi-Min Wang. **Fine-grained power modeling for smartphones using system call tracing**. In Proceedings of the sixth conference on Computer systems. 2011. [![DOI](https://zenodo.org/badge/doi/10.1145/1966445.1966460.svg)](https://doi.org/10.1145/1966445.1966460)
+
+
+
 
 
 ## License
