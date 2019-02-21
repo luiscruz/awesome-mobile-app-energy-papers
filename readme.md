@@ -44,6 +44,9 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 ### 2013
 
+- Claas Wilke, Sebastian Richly, Sebastian Götz, Christian Piechnick, Uwe Aßmann. **Energy Consumption and Efficiency in Mobile Applications: A User Feedback Study**. In 2013 IEEE International Conference on Green Computing and Communications and IEEE Internet of Things and IEEE Cyber, Physical and Social Computing. 2013. [![DOI](https://zenodo.org/badge/doi/10.1109/GreenCom-iThings-CPSCom.2013.45.svg)](https://doi.org/10.1109/GreenCom-iThings-CPSCom.2013.45)
+
+
 ### 2012
 
 - Abhinav Pathak, Y. Charlie Hu, Ming Zhang. **Where is the energy spent inside my app?: fine grained energy accounting on smartphones with Eprof**. EuroSys. 2012 [![DOI](https://zenodo.org/badge/doi/10.1145/2168836.2168841.svg)](https://doi.org/10.1145/2168836.2168841)
