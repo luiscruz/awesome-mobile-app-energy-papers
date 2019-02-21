@@ -1,7 +1,7 @@
 # Awesome Mobile App Energy Papers
 [![Awesome](./media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-As a result of my research as a PhD student, I have been listing academic literature that is related to the energy efficiency of mobile applications.
+As a result of my research as a PhD student (supervided by [Prof. Rui Abreu](https://ruimaranhao.com)), I have listed academic literature that is related to the energy efficiency of mobile applications.
 
 The goal of this list is to provide relevant academic papers to mobile developers, researchers, and students that want to extend their knowledge in this research topic.
 
@@ -23,9 +23,14 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 ### 2015
 
+- Ding Li, William GJ Halfond. Optimizing energy of http requests in android applications. In Proceedings of the 3rd International Workshop on Software Development Lifecycle for Mobile. 2015. [![DOI](https://zenodo.org/badge/doi/10.1145/2804345.2804351.svg)](https://doi.org/10.1145/2804345.2804351)
+
+
 ### 2014
 
 - Mario Linares-Vásquez, Gabriele Bavota, Carlos Bernal-Cárdenas, Rocco Oliveto, Massimiliano Di Penta, and Denys Poshyvanyk. Mining energy-greedy API usage patterns in Android apps: an empirical study. Proceedings of the 11th Working Conference on Mining Software Repositories. 2014. [![DOI](https://zenodo.org/badge/doi/10.1145/2597073.2597085.svg)](https://doi.org/10.1145/2597073.2597085)
+
+- Ding Li, Shuai Hao, Jiaping Gui, and William GJ Halfond. An empirical study of the energy consumption of android applications. ICSME. 2014. [![DOI](https://zenodo.org/badge/doi/10.1109/ICSME.2014.34.svg)](https://doi.org/10.1109/ICSME.2014.34)
 
 
 ### 2013
