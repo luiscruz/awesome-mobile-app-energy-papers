@@ -27,6 +27,8 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 - Ding Li, William GJ Halfond. **Optimizing energy of http requests in android applications**. In Proceedings of the 3rd International Workshop on Software Development Lifecycle for Mobile. 2015. [![DOI](https://zenodo.org/badge/doi/10.1145/2804345.2804351.svg)](https://doi.org/10.1145/2804345.2804351)
 
+- Reyhaneh Jabbarvand Behrouz, Alireza Sadeghi, Joshua Garcia, Sam Malek, Paul Ammann. **EcoDroid: An Approach for Energy-Based Ranking of Android Apps.** GREENS. 2015. [![DOI](https://zenodo.org/badge/doi/10.1109/GREENS.2015.9.svg)](https://doi.org/10.1109/GREENS.2015.9)
+
 
 ### 2014
 
@@ -34,8 +36,7 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 - Ding Li, Shuai Hao, Jiaping Gui, and William GJ Halfond. **An empirical study of the energy consumption of android applications**. ICSME. 2014. [![DOI](https://zenodo.org/badge/doi/10.1109/ICSME.2014.34.svg)](https://doi.org/10.1109/ICSME.2014.34)
 
-- Ding Li, William GJ Halfond. **An investigation into energy-saving programming practices for android smartphone app development**. In Proceedings of the 3rd International Workshop on Green and Sustainable Software. 2014. [![DOI](https://zenodo.org/badge/doi/10.1145/2593743.2593750.svg)](https://doi.org/10.1145/2593743.2593750)
-
+- Ding Li, William GJ Halfond. **An investigation into energy-saving programming practices for android smartphone app development**. GREENS. 2014. [![DOI](https://zenodo.org/badge/doi/10.1145/2593743.2593750.svg)](https://doi.org/10.1145/2593743.2593750)
 
 ### 2013
 
