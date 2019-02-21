@@ -40,6 +40,8 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 - Ding Li, William GJ Halfond. **An investigation into energy-saving programming practices for android smartphone app development**. GREENS. 2014. [![DOI](https://zenodo.org/badge/doi/10.1145/2593743.2593750.svg)](https://doi.org/10.1145/2593743.2593750)
 
+- Abhijeet Banerjee, Lee Kee Chong, Sudipta Chattopadhyay, Abhik Roychoudhury. **Detecting energy bugs and hotspots in mobile apps**. FSE. 2014. [![DOI](https://zenodo.org/badge/doi/10.1145/2635868.2635871.svg)](https://doi.org/10.1145/2635868.2635871)
+
 ### 2013
 
 ### 2012
