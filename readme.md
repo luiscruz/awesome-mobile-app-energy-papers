@@ -34,6 +34,9 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 - Ding Li, Shuai Hao, Jiaping Gui, and William GJ Halfond. **An empirical study of the energy consumption of android applications**. ICSME. 2014. [![DOI](https://zenodo.org/badge/doi/10.1109/ICSME.2014.34.svg)](https://doi.org/10.1109/ICSME.2014.34)
 
+- Ding Li, William GJ Halfond. **An investigation into energy-saving programming practices for android smartphone app development**. In Proceedings of the 3rd International Workshop on Green and Sustainable Software. 2014. [![DOI](https://zenodo.org/badge/doi/10.1145/2593743.2593750.svg)](https://doi.org/10.1145/2593743.2593750)
+
+
 ### 2013
 
 ### 2012
