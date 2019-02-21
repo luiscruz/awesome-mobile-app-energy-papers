@@ -1,7 +1,7 @@
 # Awesome Mobile App Energy Papers
 [![Awesome](./media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-As a result of my research as a PhD student (supervided by [Prof. Rui Abreu](https://ruimaranhao.com)), I have listed academic literature that is related to the energy efficiency of mobile applications.
+As a result of my research as a PhD student (supervised by [Prof. Rui Abreu](https://ruimaranhao.com)), I have listed academic literature that is related to the energy efficiency of mobile applications.
 
 The goal of this list is to provide relevant academic papers to mobile developers, researchers, and students that want to extend their knowledge in this research topic.
 
