@@ -23,21 +23,20 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 ### 2015
 
-- Ding Li, William GJ Halfond. Optimizing energy of http requests in android applications. In Proceedings of the 3rd International Workshop on Software Development Lifecycle for Mobile. 2015. [![DOI](https://zenodo.org/badge/doi/10.1145/2804345.2804351.svg)](https://doi.org/10.1145/2804345.2804351)
+- Ding Li, William GJ Halfond. **Optimizing energy of http requests in android applications**. In Proceedings of the 3rd International Workshop on Software Development Lifecycle for Mobile. 2015. [![DOI](https://zenodo.org/badge/doi/10.1145/2804345.2804351.svg)](https://doi.org/10.1145/2804345.2804351)
 
 
 ### 2014
 
-- Mario Linares-Vásquez, Gabriele Bavota, Carlos Bernal-Cárdenas, Rocco Oliveto, Massimiliano Di Penta, and Denys Poshyvanyk. Mining energy-greedy API usage patterns in Android apps: an empirical study. Proceedings of the 11th Working Conference on Mining Software Repositories. 2014. [![DOI](https://zenodo.org/badge/doi/10.1145/2597073.2597085.svg)](https://doi.org/10.1145/2597073.2597085)
+- Mario Linares-Vásquez, Gabriele Bavota, Carlos Bernal-Cárdenas, Rocco Oliveto, Massimiliano Di Penta, and Denys Poshyvanyk. **Mining energy-greedy API usage patterns in Android apps: an empirical study**. Proceedings of the 11th Working Conference on Mining Software Repositories. 2014. [![DOI](https://zenodo.org/badge/doi/10.1145/2597073.2597085.svg)](https://doi.org/10.1145/2597073.2597085)
 
-- Ding Li, Shuai Hao, Jiaping Gui, and William GJ Halfond. An empirical study of the energy consumption of android applications. ICSME. 2014. [![DOI](https://zenodo.org/badge/doi/10.1109/ICSME.2014.34.svg)](https://doi.org/10.1109/ICSME.2014.34)
-
+- Ding Li, Shuai Hao, Jiaping Gui, and William GJ Halfond. **An empirical study of the energy consumption of android applications**. ICSME. 2014. [![DOI](https://zenodo.org/badge/doi/10.1109/ICSME.2014.34.svg)](https://doi.org/10.1109/ICSME.2014.34)
 
 ### 2013
 
 ### 2012
 
-- Pathak, Abhinav Hu, Y. Charlie and Zhang, Ming. Where is the energy spent inside my app?: fine grained energy accounting on smartphones with Eprof. EuroSys. 2012 [![DOI](https://zenodo.org/badge/doi/10.1145/2168836.2168841.svg)](https://doi.org/10.1145/2168836.2168841)
+- Pathak, Abhinav Hu, Y. Charlie and Zhang, Ming. **Where is the energy spent inside my app?: fine grained energy accounting on smartphones with Eprof**. EuroSys. 2012 [![DOI](https://zenodo.org/badge/doi/10.1145/2168836.2168841.svg)](https://doi.org/10.1145/2168836.2168841)
 
 
 ## License
