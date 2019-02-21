@@ -23,6 +23,8 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 - Abhijeet Banerjee, Abhik Roychoudhury. **Automated Re-factoring of Android Apps to Enhance Energy-Efficiency.** MOBILESoft. 2016. [![DOI](https://zenodo.org/badge/doi/10.1109/MobileSoft.2016.038.svg)](https://doi.org/10.1109/MobileSoft.2016.038)
 
+- Abhijeet Banerjee, Hai-Feng Guo, Abhik Roychoudhury. **Debugging energy-efficiency related field failures in mobile apps.** MOBILESoft. 2016.[![DOI](https://zenodo.org/badge/doi/10.1145/2897073.2897085.svg)](https://doi.org/10.1145/2897073.2897085)
+
 ### 2015
 
 - Ding Li, William GJ Halfond. **Optimizing energy of http requests in android applications**. In Proceedings of the 3rd International Workshop on Software Development Lifecycle for Mobile. 2015. [![DOI](https://zenodo.org/badge/doi/10.1145/2804345.2804351.svg)](https://doi.org/10.1145/2804345.2804351)
