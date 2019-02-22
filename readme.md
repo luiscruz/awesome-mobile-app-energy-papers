@@ -50,6 +50,7 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 - Reyhaneh Jabbarvand Behrouz, Alireza Sadeghi, Joshua Garcia, Sam Malek, Paul Ammann. **EcoDroid: An Approach for Energy-Based Ranking of Android Apps.** GREENS. 2015. [![DOI](https://zenodo.org/badge/doi/10.1109/GREENS.2015.9.svg)](https://doi.org/10.1109/GREENS.2015.9)
 
+- Haroon Malik, Peng Zhao, Michael Godfrey. **Going green: An exploratory analysis of energy-related questions.** MSR. 2015.  [![DOI](https://zenodo.org/badge/doi/10.1109/GREENS.2015.9.svg)](https://doi.org/10.1109/GREENS.2015.9)
 
 ### 2014
 
