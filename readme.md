@@ -17,11 +17,13 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 ### 2018
 
-- Rodrigo Morales, Rubén Saborido, Foutse Khomh, Francisco Chicano, and Giuliano Antoniol. **Earmo: An energy-aware refactoring approach for mobile apps.** IEEE Transactions on Software Engineering 44, no. 12. 2018. [![DOI](https://zenodo.org/badge/doi/10.1109/TSE.2017.2757486.svg)](https://doi.org/10.1109/TSE.2017.2757486)
+- Rodrigo Morales, Rubén Saborido, Foutse Khomh, Francisco Chicano, Giuliano Antoniol. **Earmo: An energy-aware refactoring approach for mobile apps.** IEEE Transactions on Software Engineering 44, no. 12. 2018. [![DOI](https://zenodo.org/badge/doi/10.1109/TSE.2017.2757486.svg)](https://doi.org/10.1109/TSE.2017.2757486)
 
 ### 2017
 
 - Mario Linares-Vásquez, Carlos Bernal-Cárdenas, Gabriele Bavota, Rocco Oliveto, Massimiliano Di Penta, Denys Poshyvanyk. **Gemma: multi-objective optimization of energy consumption of guis in android apps**. ICSE-C. 2017.  [![DOI](https://zenodo.org/badge/doi/10.1109/ICSE-C.2017.10.svg)](https://doi.org/10.1109/ICSE-C.2017.10)
+
+- Hao Jiang, Hongli Yang, Shengchao Qin, Zhendong Su, Jian Zhang, Jun Yan. **Detecting Energy Bugs in Android Apps Using Static Analysis**. In International Conference on Formal Engineering Methods. 2017. [![DOI](https://zenodo.org/badge/doi/10.1007/978-3-319-68690-5_12.svg)](https://doi.org/10.1007/978-3-319-68690-5_12)
 
 
 ### 2016
