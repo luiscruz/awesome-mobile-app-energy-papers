@@ -23,6 +23,8 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 - Shaiful Chowdhury, Stephanie Borle, Stephen Romansky, and Abram Hindle. **Greenscaler: training software energy models with automatic test generation.** Empirical Software Engineering. 2018.  [![DOI](https://zenodo.org/badge/doi/10.1007/s10664-018-9640-7.svg)](https://doi.org/10.1007/s10664-018-9640-7)
 
+- Luis Cruz, Rui Abreu. **Using Automatic Refactoring to Improve Energy Efficiency of Android Apps**. CIbSE XXI Ibero-American Conference on Software Engineering. 2018. [Preprint](https://arxiv.org/abs/1803.05889)
+
 
 
 ### 2017
@@ -39,7 +41,9 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 - Rui Pereira, Tiago Carção, Marco Couto, Jácome Cunha, João Paulo Fernandes,  João Saraiva. **Helping programmers improve the energy efficiency of source code.** In 2017 IEEE/ACM 39th International Conference on Software Engineering Companion (ICSE-C). 2017. [![DOI](https://zenodo.org/badge/doi/10.1109/ICSE-C.2017.80.svg)](https://doi.org/10.1109/ICSE-C.2017.80)
 
-- Ivano Malavolta, Giuseppe Procaccianti, Paul Noorland, Petar Vukmirović. **Assessing the impact of service workers on the energy efficiency of progressive web apps.** MobileSoft. 2017. [![DOI](https://zenodo.org/badge/doi/10.1109/MOBILESoft.2017.7.svg)](https://doi.org/10.1109/MOBILESoft.2017.7)
+- Ivano Malavolta, Giuseppe Procaccianti, Paul Noorland, Petar Vukmirović. **Assessing the impact of service workers on the energy efficiency of progressive web apps.** MOBILESoft. 2017. [![DOI](https://zenodo.org/badge/doi/10.1109/MOBILESoft.2017.7.svg)](https://doi.org/10.1109/MOBILESoft.2017.7)
+
+- Luis Cruz, Rui Abreu, Jean-Noël Rouvignac. **Leafactor: Improving energy efficiency of android apps via automatic refactoring.** MOBILESoft. 2017. [![DOI](https://zenodo.org/badge/doi/10.1109/MOBILESoft.2017.21.svg)](https://doi.org/10.1109/MOBILESoft.2017.21)
 
 ### 2016
 
@@ -51,7 +55,7 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 - Yepang Liu, Chang Xu, Shing-Chi Cheung, Valerio Terragni. **Understanding and detecting wake lock misuses for android applications**. FSE. 2016. [![DOI](https://zenodo.org/badge/doi/10.1145/2950290.2950297.svg)](https://doi.org/10.1145/2950290.2950297)
 
-- Luis Corral, Ilenia Fronza, Nabil El Ioini, Andrea Janes, Peter Plant. **Preserving energy resources using an Android kernel extension: a case study.** MobileSoft. 2016. [![DOI](https://zenodo.org/badge/doi/10.1145/2897073.2897124.svg)](https://doi.org/10.1145/2897073.2897124)
+- Luis Corral, Ilenia Fronza, Nabil El Ioini, Andrea Janes, Peter Plant. **Preserving energy resources using an Android kernel extension: a case study.** MOBILESoft. 2016. [![DOI](https://zenodo.org/badge/doi/10.1145/2897073.2897124.svg)](https://doi.org/10.1145/2897073.2897124)
 
 - Shaiful Alam Chowdhury, Abram Hindle. **Greenoracle: Estimating software energy consumption with energy measurement corpora.** MSR. 2016.  [![DOI](https://zenodo.org/badge/doi/10.1109/MSR.2016.015.svg)](https://doi.org/10.1109/MSR.2016.015)
 
