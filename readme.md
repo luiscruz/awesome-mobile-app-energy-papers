@@ -59,6 +59,8 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 - Ding Li, Yingjun Lyu, Jiaping Gui, William GJ Halfond. **Automated energy optimization of http requests for mobile applications.** ICSE. 2016. [![DOI](https://zenodo.org/badge/doi/10.1145/2884781.2884867.svg)](https://doi.org/10.1145/2884781.2884867)
 
+- Lingfeng Bao, David Lo, Xin Xia, Xinyu Wang, Cong Tian. **How android app developers manage power consumption?: An empirical study by mining power management commits.** MSR. 2016. [![DOI](https://zenodo.org/badge/doi/10.1145/2901739.2901748.svg)](https://doi.org/10.1145/2901739.2901748)
+
 
 ### 2015
 
@@ -66,7 +68,7 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 - Haroon Malik, Peng Zhao, Michael Godfrey. **Going green: An exploratory analysis of energy-related questions.** MSR. 2015.  [![DOI](https://zenodo.org/badge/doi/10.1109/GREENS.2015.9.svg)](https://doi.org/10.1109/GREENS.2015.9)
 
-- Luis Corral, Anton B. Georgiev, Andrea Janes, Stefan Kofler. **Energy-aware performance evaluation of Android custom kernels.** GREENS. 2015.
+- Luis Corral, Anton B. Georgiev, Andrea Janes, Stefan Kofler. **Energy-aware performance evaluation of Android custom kernels.** GREENS. 2015. [![DOI](https://zenodo.org/badge/doi/10.1145/2786805.2803190.svg)](https://doi.org/10.1145/2786805.2803190)
 
 - Ding Li, Angelica Huyen Tran, William GJ Halfond. **Nyx: A display energy optimizer for mobile web apps.** FSE. 2015. [![DOI](https://zenodo.org/badge/doi/10.1145/2786805.2803190.svg)](https://doi.org/10.1145/2786805.2803190)
 
