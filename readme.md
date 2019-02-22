@@ -52,6 +52,8 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 - Haroon Malik, Peng Zhao, Michael Godfrey. **Going green: An exploratory analysis of energy-related questions.** MSR. 2015.  [![DOI](https://zenodo.org/badge/doi/10.1109/GREENS.2015.9.svg)](https://doi.org/10.1109/GREENS.2015.9)
 
+- Luis Corral, Anton B. Georgiev, Andrea Janes, Stefan Kofler. **Energy-aware performance evaluation of Android custom kernels.** GREENS. 2015.
+
 ### 2014
 
 - Mario Linares-Vásquez, Gabriele Bavota, Carlos Bernal-Cárdenas, Rocco Oliveto, Massimiliano Di Penta, and Denys Poshyvanyk. **Mining energy-greedy API usage patterns in Android apps: an empirical study**. Proceedings of the 11th Working Conference on Mining Software Repositories. 2014. [![DOI](https://zenodo.org/badge/doi/10.1145/2597073.2597085.svg)](https://doi.org/10.1145/2597073.2597085)
