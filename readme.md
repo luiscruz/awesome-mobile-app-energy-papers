@@ -21,12 +21,16 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 - Andrea McIntosh, Safwat Hassan, Abram Hindle. **What can Android mobile app developers do about the energy consumption of machine learning?**. Empirical Software Engineering. 2018. [![DOI](https://zenodo.org/badge/doi/10.1007/s10664-018-9629-2.svg)](https://doi.org/10.1007/s10664-018-9629-2)
 
+
 ### 2017
 
 - Mario Linares-Vásquez, Carlos Bernal-Cárdenas, Gabriele Bavota, Rocco Oliveto, Massimiliano Di Penta, Denys Poshyvanyk. **Gemma: multi-objective optimization of energy consumption of guis in android apps**. ICSE-C. 2017.  [![DOI](https://zenodo.org/badge/doi/10.1109/ICSE-C.2017.10.svg)](https://doi.org/10.1109/ICSE-C.2017.10)
 
 - Hao Jiang, Hongli Yang, Shengchao Qin, Zhendong Su, Jian Zhang, Jun Yan. **Detecting Energy Bugs in Android Apps Using Static Analysis**. In International Conference on Formal Engineering Methods. 2017. [![DOI](https://zenodo.org/badge/doi/10.1007/978-3-319-68690-5_12.svg)](https://doi.org/10.1007/978-3-319-68690-5_12)
 
+- Wellington Oliveira, Renato Oliveira, Fernando Castor. **A study on the energy consumption of Android app development approaches.** MSR. 2017. [![DOI](https://zenodo.org/badge/doi/10.1109/MSR.2017.66.svg)](https://doi.org/10.1109/MSR.2017.66)
+
+- Di Nucci, Dario, Fabio Palomba, Antonio Prota, Annibale Panichella, Andy Zaidman, and Andrea De Lucia. **Petra: a software-based tool for estimating the energy profile of android applications**. ICSE-C. 2017. [![DOI](https://zenodo.org/badge/doi/10.1109/ICSE-C.2017.18.svg)](https://doi.org/10.1109/ICSE-C.2017.18)
 
 ### 2016
 
@@ -37,6 +41,9 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 - Cagri Sahin, Lori Pollock, and James Clause. **From benchmarks to real apps: Exploring the energy impacts of performance-directed changes**. Journal of Systems and Software. 2016. [![DOI](https://zenodo.org/badge/doi/10.1016/j.jss.2016.03.031.svg)](https://doi.org/10.1016/j.jss.2016.03.031)
 
 - Yepang Liu, Chang Xu, Shing-Chi Cheung, Valerio Terragni. **Understanding and detecting wake lock misuses for android applications**. FSE. 2016. [![DOI](https://zenodo.org/badge/doi/10.1145/2950290.2950297.svg)](https://doi.org/10.1145/2950290.2950297)
+
+- Luis Corral, Ilenia Fronza, Nabil El Ioini, Andrea Janes, Peter Plant. **Preserving energy resources using an Android kernel extension: a case study.** MobileSoft. 2016. [![DOI](https://zenodo.org/badge/doi/10.1145/2897073.2897124.svg)](https://doi.org/10.1145/2897073.2897124)
+
 
 ### 2015
 
