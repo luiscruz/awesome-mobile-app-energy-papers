@@ -62,7 +62,10 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 - Abhijeet Banerjee, Lee Kee Chong, Sudipta Chattopadhyay, Abhik Roychoudhury. **Detecting energy bugs and hotspots in mobile apps**. FSE. 2014. [![DOI](https://zenodo.org/badge/doi/10.1145/2635868.2635871.svg)](https://doi.org/10.1145/2635868.2635871)
 
-- Kent Rasmussen, Alex Wilson, and Abram Hindle. **Green mining: energy consumption of advertisement blocking methods**. GREENS. 2014. [![DOI](https://zenodo.org/badge/doi/10.1145/2593743.2593749.svg)](https://doi.org/10.1145/2593743.2593749)
+- Kent Rasmussen, Alex Wilson, Abram Hindle. **Green mining: energy consumption of advertisement blocking methods**. GREENS. 2014. [![DOI](https://zenodo.org/badge/doi/10.1145/2593743.2593749.svg)](https://doi.org/10.1145/2593743.2593749)
+
+- Ding Li, Angelica Huyen Tran, William GJ Halfond. **Making web applications more energy efficient for OLED smartphones.** ICSE. 2014. [![DOI](https://zenodo.org/badge/doi/10.1145/2568225.2568321.svg)](https://doi.org/10.1145/2568225.2568321)
+
 
 ### 2013
 
