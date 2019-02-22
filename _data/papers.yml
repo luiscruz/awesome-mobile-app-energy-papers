@@ -1,0 +1,410 @@
+- title: Catalog of Energy Patterns for Mobile Applications
+  authors: 
+    - Luis Cruz
+    - Rui Abreu
+  venue: Empirical Software Engineering
+  year: 2019
+  preprint: https://arxiv.org/abs/1901.03302
+
+- title: "Earmo: An energy-aware refactoring approach for mobile apps"
+  authors:
+    - Rodrigo Morales
+    - Rubén Saborido
+    - Foutse Khomh
+    - Francisco Chicano
+    - Giuliano Antoniol
+  venue: TSE
+  year: 2018
+  doi: 10.1109/TSE.2017.2757486
+
+- title: What can Android mobile app developers do about the energy consumption of machine learning?
+  authors:
+    - Andrea McIntosh
+    - Safwat Hassan
+    - Abram Hindle
+  venue: Empirical Software Engineering
+  year: 2018
+  doi: 10.1007/s10664-018-9629-2
+
+- title: "Greenscaler: training software energy models with automatic test generation."
+  authors:
+    - Shaiful Chowdhury
+    - Stephanie Borle
+    - Stephen Romansky
+    - Abram Hindle
+  venue: Empirical Software Engineering
+  year: 2018
+  doi: 10.1007/s10664-018-9640-7
+  
+- title: Using Automatic Refactoring to Improve Energy Efficiency of Android Apps
+  authors:
+    - Luis Cruz
+    - Rui Abreu
+  venue: CIbSE XXI Ibero-American Conference on Software Engineering
+  year: 2018
+  preprint: https://arxiv.org/abs/1803.05889
+
+- title: Performance-based guidelines for energy efficient mobile applications
+  authors:
+    - Luis Cruz
+    - Rui Abreu
+  venue: MOBILESoft
+  year: 2017
+  doi: 10.1109/MOBILESoft.2017.19
+
+- title: "Gemma: multi-objective optimization of energy consumption of guis in android apps"
+  authors:
+    - Mario Linares-Vásquez
+    - Carlos Bernal-Cárdenas
+    - Gabriele Bavota
+    - Rocco Oliveto
+    - Massimiliano Di Penta
+    - Denys Poshyvanyk
+  venue: ICSE-C
+  year: 2017
+  doi: 10.1109/ICSE-C.2017.10
+
+- title: "Detecting Energy Bugs in Android Apps Using Static Analysis"
+  authors:
+    - Hao Jiang
+    - Hongli Yang
+    - Shengchao Qin
+    - Zhendong Su
+    - Jian Zhang
+    - Jun Yan
+  venue: International Conference on Formal Engineering Methods
+  year: 2017
+  doi: 10.1007/978-3-319-68690-5_12
+
+- title: A study on the energy consumption of Android app development approaches
+  authors:
+    - Wellington Oliveira
+    - Renato Oliveira
+    - Fernando Castor
+  venue: MSR
+  year: 2017
+  doi: 10.1109/MSR.2017.66
+
+- title: "Petra: a software-based tool for estimating the energy profile of android applications"
+  authors:
+    - Di Nucci
+    - Dario
+    - Fabio Palomba
+    - Antonio Prota
+    - Annibale Panichella
+    - Andy Zaidman
+    - Andrea De Lucia
+  venue: ICSE-C
+  year: 2017
+  doi: 10.1109/ICSE-C.2017.18
+
+- title: Helping programmers improve the energy efficiency of source code
+  authors:
+    - Rui Pereira
+    - Tiago Carção
+    - Marco Couto
+    - Jácome Cunha
+    - João Paulo Fernandes
+    -  João Saraiva
+  venue: ICSE-C
+  year: 2017
+  doi: 10.1109/ICSE-C.2017.80
+
+- title: Assessing the impact of service workers on the energy efficiency of progressive web apps
+  authors:
+    - Ivano Malavolta
+    - Giuseppe Procaccianti
+    - Paul Noorland
+    - Petar Vukmirović
+  venue: MOBILESoft
+  year: 2017
+  doi: 10.1109/MOBILESoft.2017.7
+
+- title: Investigating decreasing energy usage in mobile apps via indistinguishable color changes
+  authors:
+    - Tedis Agolli
+    - Lori Pollock
+    - James Clause
+  venue: MOBILESoft
+  year: 2017
+  doi: 10.1109/MOBILESoft.2017.17
+
+- title: "Leafactor: Improving energy efficiency of android apps via automatic refactoring"
+  authors:
+    - Luis Cruz
+    - Rui Abreu
+    - Jean-Noël Rouvignac
+  venue: MOBILESoft
+  year: 2017
+  doi: 10.1109/MOBILESoft.2017.21
+
+- title: Automated Re-factoring of Android Apps to Enhance Energy-Efficiency
+  authors:
+    - Abhijeet Banerjee
+    - Abhik Roychoudhury.
+  venue: MOBILESoft
+  year: 2016
+  doi: 10.1109/MobileSoft.2016.038
+
+- title: Debugging energy-efficiency related field failures in mobile apps
+  authors:
+    - Abhijeet Banerjee
+    - Hai-Feng Guo
+    - Abhik Roychoudhury
+  venue: MOBILESoft
+  year: 2016
+  doi: 10.1145/2897073.2897085
+
+- title: "From benchmarks to real apps: Exploring the energy impacts of performance-directed changes"
+  authors:
+    - Cagri Sahin
+    - Lori Pollock
+    - James Clause
+  venue: Journal of Systems and Software
+  year: 2016
+  doi: 10.1016/j.jss.2016.03.031
+
+- title: Understanding and detecting wake lock misuses for android applications
+  authors:
+    - Yepang Liu
+    - Chang Xu
+    - Shing-Chi Cheung
+    - Valerio Terragni
+  venue: FSE
+  year: 2016
+  doi: 10.1145/2950290.2950297
+
+- title: "Preserving energy resources using an Android kernel extension: a case study"
+  authors:
+    - Luis Corral
+    - Ilenia Fronza
+    - Nabil El Ioini
+    - Andrea Janes
+    - Peter Plant
+  venue: MOBILESoft
+  year: 2016
+  doi: 10.1145/2897073.2897124
+
+- title: "Greenoracle: Estimating software energy consumption with energy measurement corpora"
+  authors:
+    - Shaiful Alam Chowdhury
+    - Abram Hindle
+  venue: MSE
+  year: 2016
+  doi: 10.1109/MSR.2016.015
+
+- title: Modeling, profiling, and debugging the energy consumption of mobile devices
+  authors:
+    - Mohammad Ashraful Hoque
+    - Matti Siekkinen
+    - Kashif Nizam Khan
+    - Yu Xiao
+    - Sasu Tarkoma
+  venue: ACM Computing Surveys (CSUR)
+  year: 2016
+  doi: 10.1145/2840723
+
+- title: An empirical study of practitioners' perspectives on green software engineering
+  authors:
+    - Irene Manotas
+    - Christian Bird
+    - Rui Zhang
+    - David Shepherd
+    - Ciera Jaspan
+    - Caitlin Sadowski
+    - Lori Pollock
+    - James Clause
+  venue: ICSE
+  year: 2016
+  doi: 10.1145/2884781.2884867
+
+- title: "How android app developers manage power consumption?: An empirical study by mining power management commits"
+  authors: 
+    - Lingfeng Bao
+    - David Lo
+    - Xin Xia
+    - Xinyu Wang
+    - Cong Tian
+  venue: MSR
+  year: 2016
+  doi: 10.1145/2901739.2901748
+
+- title: "EcoDroid: An Approach for Energy-Based Ranking of Android Apps.** GREENS. 2015"
+  authors:
+    - Reyhaneh Jabbarvand Behrouz
+    - Alireza Sadeghi
+    - Joshua Garcia
+    - Sam Malek
+    - Paul Ammann
+  venue: GREENS
+  year: 2015
+  doi: 10.1109/GREENS.2015.9
+
+- title: "Going green: An exploratory analysis of energy-related questions"
+  authors:
+    - Haroon Malik
+    - Peng Zhao
+    - Michael Godfrey
+  venue: MSR
+  year: 2015
+  doi: 10.1109/MSR.2015.53
+
+- title: "Energy-aware performance evaluation of Android custom kernels"
+  authors:
+    - Luis Corral
+    - Anton B. Georgiev
+    - Andrea Janes
+    - Stefan Kofler
+  venue: GREENS
+  year: 2015
+  doi: 10.1109/GREENS.2015.8
+
+- title: "Nyx: A display energy optimizer for mobile web apps"
+  authors:
+    - Ding Li
+    - Angelica Huyen Tran
+    - William GJ Halfond
+  venue: FSE
+  year: 2015
+  doi: 10.1145/2786805.2803190
+
+- title: Mining energy-aware commits
+  authors:
+    - Irineu Moura
+    - Gustavo Pinto
+    - Felipe Ebert
+    - Fernando Castor
+  venue: MSR
+  year: 2015
+  doi: 10.1109/MSR.2015.13
+
+- title: "Mining energy-greedy API usage patterns in Android apps: an empirical study"
+  authors:
+    - Mario Linares-Vásquez
+    - Gabriele Bavota
+    - Carlos Bernal-Cárdenas
+    - Rocco Oliveto
+    - Massimiliano Di Penta
+    - and Denys Poshyvanyk
+  venue: MSR
+  year: 2014
+  doi: 10.1145/2597073.2597085
+
+- title: An empirical study of the energy consumption of android applications
+  authors:
+    - Ding Li
+    - Shuai Hao
+    - Jiaping Gui
+    - William GJ Halfond
+  venue: ICSME
+  year: 2014
+  doi: 10.1109/ICSME.2014.34
+
+- title: An investigation into energy-saving programming practices for android smartphone app development
+  authors:
+    - Ding Li
+    - William GJ Halfond
+  venue: GREENS
+  year: 2014
+  doi: 10.1145/2593743.2593750
+
+- title: Detecting energy bugs and hotspots in mobile apps
+  authors:
+    - Abhijeet Banerjee
+    - Lee Kee Chong
+    - Sudipta Chattopadhyay
+    - Abhik Roychoudhury
+  venue: FSE
+  year: 2014
+  doi: 10.1145/2635868.2635871
+
+- title: "Green mining: energy consumption of advertisement blocking methods"
+  authors:
+    - Kent Rasmussen
+    - Alex Wilson
+    - Abram Hindle
+  venue: GREENS
+  year: 2014
+  doi: 10.1145/2593743.2593749
+
+- title: Making web applications more energy efficient for OLED smartphones
+  authors:
+    - Ding Li
+    - Angelica Huyen Tran
+    - William GJ Halfond
+  venue: ICSE
+  year: 2014
+  doi: doi/10.1145/2568225.2568321
+
+- title: "Energy Consumption and Efficiency in Mobile Applications: A User Feedback Study"
+  authors:
+    - Claas Wilke
+    - Sebastian Richly
+    - Sebastian Götz
+    - Christian Piechnick
+    - Uwe Aßmann
+  venue: In 2013 IEEE International Conference on Green Computing and Communications and IEEE Internet of Things and IEEE Cyber, Physical and Social Computing
+  year: 2013
+  doi: 10.1109/GreenCom-iThings-CPSCom.2013.45
+
+- title: Estimating mobile application energy consumption using program analysis
+  authors:
+    - Shuai Hao
+    - Ding Li
+    - William GJ Halfond
+    - Ramesh Govindan
+  venue: ICSE
+  year: 2013
+
+- title: "Where is the energy spent inside my app?: fine grained energy accounting on smartphones with Eprof"
+  authors:
+    - Abhinav Pathak
+    - Y. Charlie Hu
+    - Ming Zhang
+  venue: EuroSys
+  year: 2012
+  doi: 10.1145/2168836.2168841
+
+- title: A methodology for energy performance testing of smartphone applications
+  authors:
+    - Abdulhakim Abogharaf
+    - Rajesh Palit
+    - Kshirasagar Naik
+    - Ajit Singh
+  venue: In 2012 7th International Workshop on Automation of Software Test (AST)
+  year: 2012
+  doi: 10.1109/IWAST.2012.6228978
+
+- title: "What is keeping my phone awake?: characterizing and detecting no-sleep energy bugs in smartphone apps"
+  authors:
+    - Abhinav Pathak
+    - Abhilash Jindal
+    - Y. Charlie Hu
+    - Samuel P. Midkiff
+  venue: MobiSys
+  year: 2012
+  doi: 10.1145/2307636.2307661
+
+- title: Fine-grained power modeling for smartphones using system call tracing
+  authors:
+    - Abhinav Pathak
+    - Y. Charlie Hu
+    - Ming Zhang
+    - Paramvir Bahl
+    - Yi-Min Wang
+  venue: In Proceedings of the sixth conference on Computer systems
+  year: 2011
+  doi: 10.1145/1966445.1966460
+
+- title: Accurate online power estimation and automatic battery behavior based power model generation for smartphones
+  authors:
+    - Lide Zhang
+    - Birjodh Tiwana
+    - Zhiyun Qian
+    - Zhaoguang Wang
+    - Robert P. Dick
+    - Zhuoqing Morley Mao
+    - Lei Yang
+  venue: In Proceedings of the eighth IEEE/ACM/IFIP international conference on Hardware/software codesign and system synthesis
+  year: 2010
+  doi: 10.1145/1878961.1878982
