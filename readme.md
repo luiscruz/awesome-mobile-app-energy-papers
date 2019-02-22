@@ -7,7 +7,7 @@ The goal of this list is to provide relevant academic papers to mobile developer
 
 If you know an academic paper that should be listed here, please contribute. As rule of thumb, the paper needs to be accepted in a relevant peer-reviewed conference/journal. Please, read the [contribution guidelines](contributing.md).
 
-This list is based on similar lists for other topics: [Awesome Crypto Papers](https://github.com/pFarb/awesome-crypto-papers); [Stack Exchange Academic Papers](https://meta.stackexchange.com/questions/134495/academic-papers-using-stack-exchange-data). It is sorted by year. Eventually, the papers might be categorized according to their approach and addressed problem.
+This list is based on similar lists of papers in other topics: [Awesome Crypto Papers](https://github.com/pFarb/awesome-crypto-papers); [Stack Exchange Academic Papers](https://meta.stackexchange.com/questions/134495/academic-papers-using-stack-exchange-data). It is sorted by year. Eventually, the papers might be categorized according to their approach and addressed problem.
 
 For news and related content check out my [website](https://luiscruz.github.io/) and follow me on [Twitter](https://twitter.com/luismcruz).
 
@@ -15,7 +15,7 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 ### 2019
 
-- Luis Cruz, Rui Abreu. **Catalog of Energy Patterns for Mobile Applications**. Empirical Software Engineering. 2018. [Preprint](https://arxiv.org/abs/1901.03302)
+- Luis Cruz, Rui Abreu. **Catalog of Energy Patterns for Mobile Applications**. Empirical Software Engineering. 2019. [Preprint](https://arxiv.org/abs/1901.03302)
 
 ### 2018
 
