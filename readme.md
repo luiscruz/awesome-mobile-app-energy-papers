@@ -15,6 +15,8 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 ### 2019
 
+- Luis Cruz, Rui Abreu. **Catalog of Energy Patterns for Mobile Applications**. Empirical Software Engineering. 2018. [Preprint](https://arxiv.org/abs/1901.03302)
+
 ### 2018
 
 - Rodrigo Morales, Rubén Saborido, Foutse Khomh, Francisco Chicano, Giuliano Antoniol. **Earmo: An energy-aware refactoring approach for mobile apps.** IEEE Transactions on Software Engineering 44, no. 12. 2018. [![DOI](https://zenodo.org/badge/doi/10.1109/TSE.2017.2757486.svg)](https://doi.org/10.1109/TSE.2017.2757486)
