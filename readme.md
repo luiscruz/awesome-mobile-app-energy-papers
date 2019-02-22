@@ -384,4 +384,3 @@ Abhinav Pathak, Abhilash Jindal, Y. Charlie Hu, Samuel P. Midkiff. **What is kee
 
 To the extent possible under law, [Luis Cruz](https://luiscruz.github.io) has waived all copyright and related or neighboring rights to this work.
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script><script>anchors.add();</script>
