@@ -27,6 +27,8 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 ### 2017
 
+- Luis Cruz, and Rui Abreu. **Performance-based guidelines for energy efficient mobile applications.** MOBILESoft. 2017. [![DOI](https://zenodo.org/badge/doi/10.1109/MOBILESoft.2017.19.svg)](https://doi.org/10.1109/MOBILESoft.2017.19)
+
 - Mario Linares-Vásquez, Carlos Bernal-Cárdenas, Gabriele Bavota, Rocco Oliveto, Massimiliano Di Penta, Denys Poshyvanyk. **Gemma: multi-objective optimization of energy consumption of guis in android apps**. ICSE-C. 2017.  [![DOI](https://zenodo.org/badge/doi/10.1109/ICSE-C.2017.10.svg)](https://doi.org/10.1109/ICSE-C.2017.10)
 
 - Hao Jiang, Hongli Yang, Shengchao Qin, Zhendong Su, Jian Zhang, Jun Yan. **Detecting Energy Bugs in Android Apps Using Static Analysis**. In International Conference on Formal Engineering Methods. 2017. [![DOI](https://zenodo.org/badge/doi/10.1007/978-3-319-68690-5_12.svg)](https://doi.org/10.1007/978-3-319-68690-5_12)
@@ -61,7 +63,6 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 - Lingfeng Bao, David Lo, Xin Xia, Xinyu Wang, Cong Tian. **How android app developers manage power consumption?: An empirical study by mining power management commits.** MSR. 2016. [![DOI](https://zenodo.org/badge/doi/10.1145/2901739.2901748.svg)](https://doi.org/10.1145/2901739.2901748)
 
-
 ### 2015
 
 - Reyhaneh Jabbarvand Behrouz, Alireza Sadeghi, Joshua Garcia, Sam Malek, Paul Ammann. **EcoDroid: An Approach for Energy-Based Ranking of Android Apps.** GREENS. 2015. [![DOI](https://zenodo.org/badge/doi/10.1109/GREENS.2015.9.svg)](https://doi.org/10.1109/GREENS.2015.9)
@@ -71,6 +72,8 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 - Luis Corral, Anton B. Georgiev, Andrea Janes, Stefan Kofler. **Energy-aware performance evaluation of Android custom kernels.** GREENS. 2015. [![DOI](https://zenodo.org/badge/doi/10.1145/2786805.2803190.svg)](https://doi.org/10.1145/2786805.2803190)
 
 - Ding Li, Angelica Huyen Tran, William GJ Halfond. **Nyx: A display energy optimizer for mobile web apps.** FSE. 2015. [![DOI](https://zenodo.org/badge/doi/10.1145/2786805.2803190.svg)](https://doi.org/10.1145/2786805.2803190)
+
+- Irineu Moura, Gustavo Pinto, Felipe Ebert, Fernando Castor. **Mining energy-aware commits.** MSR. 2015. [![DOI](https://zenodo.org/badge/doi/10.1109/MSR.2015.13.svg)](https://doi.org/10.1109/MSR.2015.13)
 
 ### 2014
 
