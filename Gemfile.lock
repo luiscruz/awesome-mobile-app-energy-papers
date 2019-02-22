@@ -193,8 +193,6 @@ GEM
       jekyll (~> 3.0)
     kramdown (1.17.0)
     liquid (4.0.0)
-    liquid-cli (0.0.1)
-      liquid
     listen (3.1.5)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
@@ -217,6 +215,8 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
+    reverse_markdown (1.1.0)
+      nokogiri
     rouge (2.2.1)
     ruby-enum (0.7.2)
       i18n
@@ -245,7 +245,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  liquid-cli
+  reverse_markdown
 
 BUNDLED WITH
    2.0.1
