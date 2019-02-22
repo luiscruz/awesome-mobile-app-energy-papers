@@ -48,6 +48,11 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 - Luis Corral, Ilenia Fronza, Nabil El Ioini, Andrea Janes, Peter Plant. **Preserving energy resources using an Android kernel extension: a case study.** MobileSoft. 2016. [![DOI](https://zenodo.org/badge/doi/10.1145/2897073.2897124.svg)](https://doi.org/10.1145/2897073.2897124)
 
+- Shaiful Alam Chowdhury, Abram Hindle. **Greenoracle: Estimating software energy consumption with energy measurement corpora.** MSR. 2016.  [![DOI](https://zenodo.org/badge/doi/10.1109/MSR.2016.015.svg)](https://doi.org/10.1109/MSR.2016.015)
+
+- Mohammad Ashraful Hoque, Matti Siekkinen, Kashif Nizam Khan, Yu Xiao, and Sasu Tarkoma. **Modeling, profiling, and debugging the energy consumption of mobile devices.** ACM Computing Surveys (CSUR). 2016. [![DOI](https://zenodo.org/badge/doi/10.1145/2840723.svg)](https://doi.org/10.1145/2840723)
+
+
 ### 2015
 
 - Ding Li, William GJ Halfond. **Optimizing energy of http requests in android applications**. In Proceedings of the 3rd International Workshop on Software Development Lifecycle for Mobile. 2015. [![DOI](https://zenodo.org/badge/doi/10.1145/2804345.2804351.svg)](https://doi.org/10.1145/2804345.2804351)
