@@ -32,6 +32,10 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 - Di Nucci, Dario, Fabio Palomba, Antonio Prota, Annibale Panichella, Andy Zaidman, and Andrea De Lucia. **Petra: a software-based tool for estimating the energy profile of android applications**. ICSE-C. 2017. [![DOI](https://zenodo.org/badge/doi/10.1109/ICSE-C.2017.18.svg)](https://doi.org/10.1109/ICSE-C.2017.18)
 
+- Rui Pereira, Tiago Carção, Marco Couto, Jácome Cunha, João Paulo Fernandes,  João Saraiva. **Helping programmers improve the energy efficiency of source code.** In 2017 IEEE/ACM 39th International Conference on Software Engineering Companion (ICSE-C). 2017. [![DOI](https://zenodo.org/badge/doi/10.1109/ICSE-C.2017.80.svg)](https://doi.org/10.1109/ICSE-C.2017.80)
+
+- Ivano Malavolta, Giuseppe Procaccianti, Paul Noorland, Petar Vukmirović. **Assessing the impact of service workers on the energy efficiency of progressive web apps.** MobileSoft. 2017. [![DOI](https://zenodo.org/badge/doi/10.1109/MOBILESoft.2017.7.svg)](https://doi.org/10.1109/MOBILESoft.2017.7)
+
 ### 2016
 
 - Abhijeet Banerjee, Abhik Roychoudhury. **Automated Re-factoring of Android Apps to Enhance Energy-Efficiency.** MOBILESoft. 2016. [![DOI](https://zenodo.org/badge/doi/10.1109/MobileSoft.2016.038.svg)](https://doi.org/10.1109/MobileSoft.2016.038)
