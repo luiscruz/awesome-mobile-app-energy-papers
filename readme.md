@@ -111,6 +111,10 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 - Abdulhakim Abogharaf, Rajesh Palit, Kshirasagar Naik, Ajit Singh. A methodology for energy performance testing of smartphone applications. In 2012 7th International Workshop on Automation of Software Test (AST). 2012.  [![DOI](https://zenodo.org/badge/doi/10.1109/IWAST.2012.6228978.svg)](https://doi.org/10.1109/IWAST.2012.6228978)
 
+- Abhinav Pathak, Abhilash Jindal, Y. Charlie Hu, Samuel P. Midkiff. **What is keeping my phone awake?: characterizing and detecting no-sleep energy bugs in smartphone apps.** MobiSys. 2012. [![DOI](https://zenodo.org/badge/doi/10.1145/2307636.2307661.svg)](https://doi.org/10.1145/2307636.2307661)
+
+
+
 ### 2011
 
 - Abhinav Pathak, Y. Charlie Hu, Ming Zhang, Paramvir Bahl, Yi-Min Wang. **Fine-grained power modeling for smartphones using system call tracing**. In Proceedings of the sixth conference on Computer systems. 2011. [![DOI](https://zenodo.org/badge/doi/10.1145/1966445.1966460.svg)](https://doi.org/10.1145/1966445.1966460)
