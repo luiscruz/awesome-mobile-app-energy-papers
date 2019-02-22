@@ -44,7 +44,6 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 - Luis Corral, Ilenia Fronza, Nabil El Ioini, Andrea Janes, Peter Plant. **Preserving energy resources using an Android kernel extension: a case study.** MobileSoft. 2016. [![DOI](https://zenodo.org/badge/doi/10.1145/2897073.2897124.svg)](https://doi.org/10.1145/2897073.2897124)
 
-
 ### 2015
 
 - Ding Li, William GJ Halfond. **Optimizing energy of http requests in android applications**. In Proceedings of the 3rd International Workshop on Software Development Lifecycle for Mobile. 2015. [![DOI](https://zenodo.org/badge/doi/10.1145/2804345.2804351.svg)](https://doi.org/10.1145/2804345.2804351)
@@ -61,6 +60,8 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 - Ding Li, William GJ Halfond. **An investigation into energy-saving programming practices for android smartphone app development**. GREENS. 2014. [![DOI](https://zenodo.org/badge/doi/10.1145/2593743.2593750.svg)](https://doi.org/10.1145/2593743.2593750)
 
 - Abhijeet Banerjee, Lee Kee Chong, Sudipta Chattopadhyay, Abhik Roychoudhury. **Detecting energy bugs and hotspots in mobile apps**. FSE. 2014. [![DOI](https://zenodo.org/badge/doi/10.1145/2635868.2635871.svg)](https://doi.org/10.1145/2635868.2635871)
+
+- Kent Rasmussen, Alex Wilson, and Abram Hindle. **Green mining: energy consumption of advertisement blocking methods**. GREENS. 2014. [![DOI](https://zenodo.org/badge/doi/10.1145/2593743.2593749.svg)](https://doi.org/10.1145/2593743.2593749)
 
 ### 2013
 
