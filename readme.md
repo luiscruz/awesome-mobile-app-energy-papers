@@ -96,7 +96,9 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 - Abhinav Pathak, Y. Charlie Hu, Ming Zhang, Paramvir Bahl, Yi-Min Wang. **Fine-grained power modeling for smartphones using system call tracing**. In Proceedings of the sixth conference on Computer systems. 2011. [![DOI](https://zenodo.org/badge/doi/10.1145/1966445.1966460.svg)](https://doi.org/10.1145/1966445.1966460)
 
 
+### 2010
 
+- Lide Zhang, Birjodh Tiwana, Zhiyun Qian, Zhaoguang Wang, Robert P. Dick, Zhuoqing Morley Mao, Lei Yang. **Accurate online power estimation and automatic battery behavior based power model generation for smartphones.** In Proceedings of the eighth IEEE/ACM/IFIP international conference on Hardware/software codesign and system synthesis. 2010. [![DOI](https://zenodo.org/badge/doi/10.1145/1878961.1878982.svg)](https://doi.org/10.1145/1878961.1878982)
 
 
 ## License
