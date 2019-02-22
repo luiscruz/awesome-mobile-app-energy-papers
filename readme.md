@@ -21,6 +21,9 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 - Andrea McIntosh, Safwat Hassan, Abram Hindle. **What can Android mobile app developers do about the energy consumption of machine learning?**. Empirical Software Engineering. 2018. [![DOI](https://zenodo.org/badge/doi/10.1007/s10664-018-9629-2.svg)](https://doi.org/10.1007/s10664-018-9629-2)
 
+- Shaiful Chowdhury, Stephanie Borle, Stephen Romansky, and Abram Hindle. **Greenscaler: training software energy models with automatic test generation.** Empirical Software Engineering. 2018.  [![DOI](https://zenodo.org/badge/doi/10.1007/s10664-018-9640-7.svg)](https://doi.org/10.1007/s10664-018-9640-7)
+
+
 
 ### 2017
 
