@@ -76,7 +76,9 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 ### 2012
 
-- Abhinav Pathak, Y. Charlie Hu, Ming Zhang. **Where is the energy spent inside my app?: fine grained energy accounting on smartphones with Eprof**. EuroSys. 2012 [![DOI](https://zenodo.org/badge/doi/10.1145/2168836.2168841.svg)](https://doi.org/10.1145/2168836.2168841)
+- Abhinav Pathak, Y. Charlie Hu, Ming Zhang. **Where is the energy spent inside my app?: fine grained energy accounting on smartphones with Eprof**. EuroSys. 2012. [![DOI](https://zenodo.org/badge/doi/10.1145/2168836.2168841.svg)](https://doi.org/10.1145/2168836.2168841)
+
+- Abdulhakim Abogharaf, Rajesh Palit, Kshirasagar Naik, Ajit Singh. A methodology for energy performance testing of smartphone applications. In 2012 7th International Workshop on Automation of Software Test (AST). 2012.  [![DOI](https://zenodo.org/badge/doi/10.1109/IWAST.2012.6228978.svg)](https://doi.org/10.1109/IWAST.2012.6228978)
 
 ### 2011
 
