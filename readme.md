@@ -45,6 +45,8 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 - Ivano Malavolta, Giuseppe Procaccianti, Paul Noorland, Petar Vukmirović. **Assessing the impact of service workers on the energy efficiency of progressive web apps.** MOBILESoft. 2017. [![DOI](https://zenodo.org/badge/doi/10.1109/MOBILESoft.2017.7.svg)](https://doi.org/10.1109/MOBILESoft.2017.7)
 
+- Tedis Agolli, Lori Pollock, and James Clause. **Investigating decreasing energy usage in mobile apps via indistinguishable color changes.** MOBILESoft. 2017. [![DOI](https://zenodo.org/badge/doi/10.1109/MOBILESoft.2017.17.svg)](https://doi.org/10.1109/MOBILESoft.2017.17)
+
 - Luis Cruz, Rui Abreu, Jean-Noël Rouvignac. **Leafactor: Improving energy efficiency of android apps via automatic refactoring.** MOBILESoft. 2017. [![DOI](https://zenodo.org/badge/doi/10.1109/MOBILESoft.2017.21.svg)](https://doi.org/10.1109/MOBILESoft.2017.21)
 
 ### 2016
