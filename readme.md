@@ -55,10 +55,11 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 - Mohammad Ashraful Hoque, Matti Siekkinen, Kashif Nizam Khan, Yu Xiao, and Sasu Tarkoma. **Modeling, profiling, and debugging the energy consumption of mobile devices.** ACM Computing Surveys (CSUR). 2016. [![DOI](https://zenodo.org/badge/doi/10.1145/2840723.svg)](https://doi.org/10.1145/2840723)
 
+- Irene Manotas, Christian Bird, Rui Zhang, David Shepherd, Ciera Jaspan, Caitlin Sadowski, Lori Pollock, James Clause. **An empirical study of practitioners' perspectives on green software engineering.** ICSE. 2016. [![DOI](https://zenodo.org/badge/doi/10.1145/2884781.2884810.svg)](https://doi.org/10.1145/2884781.2884810)
+
+- Ding Li, Yingjun Lyu, Jiaping Gui, William GJ Halfond. **Automated energy optimization of http requests for mobile applications.** ICSE. 2016. [![DOI](https://zenodo.org/badge/doi/10.1145/2884781.2884867.svg)](https://doi.org/10.1145/2884781.2884867)
 
 ### 2015
-
-- Ding Li, William GJ Halfond. **Optimizing energy of http requests in android applications**. In Proceedings of the 3rd International Workshop on Software Development Lifecycle for Mobile. 2015. [![DOI](https://zenodo.org/badge/doi/10.1145/2804345.2804351.svg)](https://doi.org/10.1145/2804345.2804351)
 
 - Reyhaneh Jabbarvand Behrouz, Alireza Sadeghi, Joshua Garcia, Sam Malek, Paul Ammann. **EcoDroid: An Approach for Energy-Based Ranking of Android Apps.** GREENS. 2015. [![DOI](https://zenodo.org/badge/doi/10.1109/GREENS.2015.9.svg)](https://doi.org/10.1109/GREENS.2015.9)
 
