@@ -11,6 +11,17 @@ This list is based on similar lists of papers in other topics: [Awesome Crypto P
 
 For news and related content check out my [website](https://luiscruz.github.io/) and follow me on [Twitter](https://twitter.com/luismcruz).
 
+## Contents [auto]
+
+{% assign papers_by_year = site.data.papers | group_by:"year" %}
+{% for year in papers_by_year %}
+### {{ year.name }}
+
+{% for paper in year.items %}
+- {{paper.authors | join: ", "}}. **{{paper.title}}**. {{paper.venue}}. {{paper.year}}.{% if paper.preprint%} [Preprint]({{paper.preprint}}){% endif %}{% if paper.doi%} [![DOI](https://zenodo.org/badge/doi/{{paper.doi}}.svg)](https://doi.org/{{paper.doi}}){% endif %}
+{% endfor %}
+{% endfor %}
+
 ## Contents
 
 ### 2019
