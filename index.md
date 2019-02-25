@@ -1,3 +1,7 @@
+---
+title: Awesome Mobile App Energy Papers
+---
+
 # Awesome Mobile App Energy Papers
 [![Awesome](./media/badge.svg)](https://github.com/sindresorhus/awesome)
 

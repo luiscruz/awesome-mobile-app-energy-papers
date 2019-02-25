@@ -1,5 +1,3 @@
-# [awesome-mobile-app-energy-papers](/)
-
 # Awesome Mobile App Energy Papers
 
 [![Awesome](/media/badge.svg)](https://github.com/sindresorhus/awesome)
