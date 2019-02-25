@@ -6,22 +6,22 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 If you know an awesome paper that should be listed here, this is how you do it:
 
-- Add one link per commit.
-
-- No links to paid resources - only reference materials available for free (or at cost of an e-mail).
+- Add one paper per commit.
 
 - Add one commit per Pull Request.
 
-- Add the reference of the paper with the following format:
+- Add the reference of the paper to `_data/papers.yml` with the following format:
 
-  - <Author's First Name>, <Author's Last Name>. <Title of the paper>. <Journal/Conference>, <Year>. [DOI](<doi uri>) [Preprint](<preprint url>)
-
-- [paper-name](http://example.com/) - A short description ends with a period.` Mentioning authors in description is recommended, if there are too many - mention first 2 and "et al.".
-
-- Add a section if needed.
-
-  - Add the section description.
-  - Add the section title to Table of Contents.
+```
+- title: "Title of the Paper"
+    - FirstName LastName
+    - FirstName LastName
+  venue: MOBILESoft
+  year: 2017
+  doi: 10.1109/MOBILESoft.2017.19
+  preprint: <optional url of the preprint>
+```
+- Build the site by running `sh build.sh` in a command-line terminal. (you need to have ruby, let me know if you find any issues here).
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 
