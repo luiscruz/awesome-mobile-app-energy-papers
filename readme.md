@@ -46,6 +46,8 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 - Tedis Agolli, Lori Pollock, James Clause. **Investigating decreasing energy usage in mobile apps via indistinguishable color changes**. MOBILESoft. 2017. [![DOI](https://zenodo.org/badge/doi/10.1109/MOBILESoft.2017.17.svg)](https://doi.org/10.1109/MOBILESoft.2017.17)
 
+- Antonin Carette, Mehdi Adel Ait Younes, Geoffrey Hecht, Naouel Moha, Romain Rouvoy. **Investigating the Energy Impact of Android Smells**. SANER. 2017. [![DOI](https://zenodo.org/badge/doi/10.1109/SANER.2017.7884614.svg)](https://doi.org/10.1109/SANER.2017.7884614)
+
 - Luis Cruz, Rui Abreu, Jean-Noël Rouvignac. **Leafactor: Improving energy efficiency of android apps via automatic refactoring**. MOBILESoft. 2017. [![DOI](https://zenodo.org/badge/doi/10.1109/MOBILESoft.2017.21.svg)](https://doi.org/10.1109/MOBILESoft.2017.21)
 
 ### 2016
