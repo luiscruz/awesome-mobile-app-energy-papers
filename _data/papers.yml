@@ -129,6 +129,17 @@
   year: 2017
   doi: 10.1109/MOBILESoft.2017.17
 
+- title: Investigating the Energy Impact of Android Smells
+  authors:
+    - Antonin Carette
+    - Mehdi Adel Ait Younes
+    - Geoffrey Hecht
+    - Naouel Moha
+    - Romain Rouvoy
+  venue: SANER
+  year: 2017
+  doi: 10.1109/SANER.2017.7884614
+
 - title: "Leafactor: Improving energy efficiency of android apps via automatic refactoring"
   authors:
     - Luis Cruz
