@@ -1,3 +1,15 @@
+- title: "GreenBundle: An Empirical Study on the Energy Impact of Bundled Processing"
+  authors:
+    - Shaiful Alam Chowdhury
+    - Abram Hindle
+    - Rick Kazman
+    - Takumi Shuto
+    - Ken Matsui
+    - Yasutaka Kamei
+  venue: ICSE
+  year: 2019
+  preprint: http://posl.ait.kyushu-u.ac.jp/~kamei/publications/Chowdhury_ICSE2019.pdf
+
 - title: Catalog of Energy Patterns for Mobile Applications
   authors: 
     - Luis Cruz

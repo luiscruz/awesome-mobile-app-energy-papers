@@ -16,6 +16,8 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 ### 2019
 
+- Shaiful Alam Chowdhury, Abram Hindle, Rick Kazman, Takumi Shuto, Ken Matsui, Yasutaka Kamei. **GreenBundle: An Empirical Study on the Energy Impact of Bundled Processing**. ICSE. 2019. [Preprint](http://posl.ait.kyushu-u.ac.jp/~kamei/publications/Chowdhury_ICSE2019.pdf)
+
 - Luis Cruz, Rui Abreu. **Catalog of Energy Patterns for Mobile Applications**. Empirical Software Engineering. 2019. [Preprint](https://arxiv.org/abs/1901.03302)
 
 ### 2018
