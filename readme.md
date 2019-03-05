@@ -20,6 +20,8 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 - Luis Cruz, Rui Abreu. **Catalog of Energy Patterns for Mobile Applications**. Empirical Software Engineering. 2019. [Preprint](https://arxiv.org/abs/1901.03302)
 
+- Reyhaneh Jabbarvand, Jun-Wei Lin, Sam Malek. **Search-Based Energy Testing of Android**. ICSE. 2019. [Preprint](https://seal.ics.uci.edu/publications/2019_ICSE_Search.pdf)
+
 ### 2018
 
 - Rodrigo Morales, Rubén Saborido, Foutse Khomh, Francisco Chicano, Giuliano Antoniol. **Earmo: An energy-aware refactoring approach for mobile apps**. TSE. 2018. [![DOI](https://zenodo.org/badge/doi/10.1109/TSE.2017.2757486.svg)](https://doi.org/10.1109/TSE.2017.2757486)
