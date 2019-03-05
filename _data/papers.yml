@@ -18,6 +18,15 @@
   year: 2019
   preprint: https://arxiv.org/abs/1901.03302
 
+- title: "Search-Based Energy Testing of Android"
+  authors: 
+    - Reyhaneh Jabbarvand
+    - Jun-Wei Lin
+    - Sam Malek
+  venue: ICSE
+  year: 2019
+  preprint: https://seal.ics.uci.edu/publications/2019_ICSE_Search.pdf
+
 - title: "Earmo: An energy-aware refactoring approach for mobile apps"
   authors:
     - Rodrigo Morales
