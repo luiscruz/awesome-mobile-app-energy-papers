@@ -57,6 +57,18 @@
   year: 2018
   doi: 10.1007/s10664-018-9640-7
   
+- title: "An Exploratory Study on Assessing the Energy Impact of Logging on Android Applications"
+  authors:
+    - Shaiful Alam Chowdhury
+    - Silvia Di Nardo
+    - Abram Hindle
+    - Zhen Ming (Jack) Jiang
+  venue: Journal of Empirical Software Engineering
+  year: 2018
+  doi: 10.1007/s10664-017-9545-x
+
+- title: 
+
 - title: Using Automatic Refactoring to Improve Energy Efficiency of Android Apps
   authors:
     - Luis Cruz
@@ -161,15 +173,15 @@
   year: 2017
   doi: 10.1109/SANER.2017.7884614
 
-- title: "An Exploratory Study on Assessing the Energy Impact of Logging on Android Applications"
+- title: "Deep Green: modelling time-series of software energy consumption"
   authors:
+    - Stephen Romansky
+    - Neil Borle
     - Shaiful Alam Chowdhury
-    - Silvia Di Nardo
     - Abram Hindle
-    - Zhen Ming (Jack) Jiang
-  venue: Journal of Empirical Software Engineering
+    - Russ Greiner
+  venue: ICSME
   year: 2017
-  doi: 10.1007/s10664-017-9545-x
 
 - title: "Leafactor: Improving energy efficiency of android apps via automatic refactoring"
   authors:
