@@ -34,10 +34,6 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 - Luis Cruz, Rui Abreu. **Using Automatic Refactoring to Improve Energy Efficiency of Android Apps**. CIbSE XXI Ibero-American Conference on Software Engineering. 2018. [Preprint](https://arxiv.org/abs/1803.05889)
 
-###
-
-- . _\*\*_. . .
-
 ### 2017
 
 - Luis Cruz, Rui Abreu. **Performance-based guidelines for energy efficient mobile applications**. MOBILESoft. 2017. [![DOI](https://zenodo.org/badge/doi/10.1109/MOBILESoft.2017.19.svg)](https://doi.org/10.1109/MOBILESoft.2017.19)
