@@ -283,6 +283,14 @@
   year: 2016
   doi: 10.1145/2901739.2901748
 
+- title: "Characterizing Energy-Aware Software Projects: Are They Different?"
+  authors:
+    - Shaiful Alam Chowdhury
+    - Abram Hindle
+  venue: MSR
+  year: 2016
+  doi: 10.1145/2901739.2903494
+
 - title: "EcoDroid: An Approach for Energy-Based Ranking of Android Apps.** GREENS. 2015"
   authors:
     - Reyhaneh Jabbarvand Behrouz

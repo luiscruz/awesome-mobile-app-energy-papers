@@ -82,6 +82,8 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 - Lingfeng Bao, David Lo, Xin Xia, Xinyu Wang, Cong Tian. **How android app developers manage power consumption?: An empirical study by mining power management commits**. MSR. 2016. [![DOI](https://zenodo.org/badge/doi/10.1145/2901739.2901748.svg)](https://doi.org/10.1145/2901739.2901748)
 
+- Shaiful Alam Chowdhury, Abram Hindle. **Characterizing Energy-Aware Software Projects: Are They Different?**. MSR. 2016. [![DOI](https://zenodo.org/badge/doi/10.1145/2901739.2903494.svg)](https://doi.org/10.1145/2901739.2903494)
+
 ### 2015
 
 - Reyhaneh Jabbarvand Behrouz, Alireza Sadeghi, Joshua Garcia, Sam Malek, Paul Ammann. **EcoDroid: An Approach for Energy-Based Ranking of Android Apps.** GREENS. 2015\*\*. GREENS. 2015. [![DOI](https://zenodo.org/badge/doi/10.1109/GREENS.2015.9.svg)](https://doi.org/10.1109/GREENS.2015.9)
