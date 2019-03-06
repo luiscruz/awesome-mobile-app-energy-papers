@@ -161,6 +161,16 @@
   year: 2017
   doi: 10.1109/SANER.2017.7884614
 
+- title: "An Exploratory Study on Assessing the Energy Impact of Logging on Android Applications"
+  authors:
+    - Shaiful Alam Chowdhury
+    - Silvia Di Nardo
+    - Abram Hindle
+    - Zhen Ming (Jack) Jiang
+  venue: Journal of Empirical Software Engineering
+  year: 2017
+  doi: 10.1007/s10664-017-9545-x
+
 - title: "Leafactor: Improving energy efficiency of android apps via automatic refactoring"
   authors:
     - Luis Cruz

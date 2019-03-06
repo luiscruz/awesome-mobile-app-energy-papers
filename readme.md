@@ -52,6 +52,8 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 - Antonin Carette, Mehdi Adel Ait Younes, Geoffrey Hecht, Naouel Moha, Romain Rouvoy. **Investigating the Energy Impact of Android Smells**. SANER. 2017. [![DOI](https://zenodo.org/badge/doi/10.1109/SANER.2017.7884614.svg)](https://doi.org/10.1109/SANER.2017.7884614)
 
+- Shaiful Alam Chowdhury, Silvia Di Nardo, Abram Hindle, Zhen Ming (Jack) Jiang. **An Exploratory Study on Assessing the Energy Impact of Logging on Android Applications**. Journal of Empirical Software Engineering. 2017. [![DOI](https://zenodo.org/badge/doi/10.1007/s10664-017-9545-x.svg)](https://doi.org/10.1007/s10664-017-9545-x)
+
 - Luis Cruz, Rui Abreu, Jean-Noël Rouvignac. **Leafactor: Improving energy efficiency of android apps via automatic refactoring**. MOBILESoft. 2017. [![DOI](https://zenodo.org/badge/doi/10.1109/MOBILESoft.2017.21.svg)](https://doi.org/10.1109/MOBILESoft.2017.21)
 
 ### 2016
