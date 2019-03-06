@@ -84,6 +84,8 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 - Shaiful Alam Chowdhury, Abram Hindle. **Characterizing Energy-Aware Software Projects: Are They Different?**. MSR. 2016. [![DOI](https://zenodo.org/badge/doi/10.1145/2901739.2903494.svg)](https://doi.org/10.1145/2901739.2903494)
 
+- Shaiful Alam Chowdhury, Varun Sapra, Abram Hindle. **Client-side Energy Efficiency of HTTP/2 for Web and Mobile App Developers**. SANER. 2016. [![DOI](https://zenodo.org/badge/doi/10.1109/SANER.2016.77.svg)](https://doi.org/10.1109/SANER.2016.77)
+
 ### 2015
 
 - Reyhaneh Jabbarvand Behrouz, Alireza Sadeghi, Joshua Garcia, Sam Malek, Paul Ammann. **EcoDroid: An Approach for Energy-Based Ranking of Android Apps.** GREENS. 2015\*\*. GREENS. 2015. [![DOI](https://zenodo.org/badge/doi/10.1109/GREENS.2015.9.svg)](https://doi.org/10.1109/GREENS.2015.9)

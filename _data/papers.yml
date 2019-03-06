@@ -291,6 +291,15 @@
   year: 2016
   doi: 10.1145/2901739.2903494
 
+- title: "Client-side Energy Efficiency of HTTP/2 for Web and Mobile App Developers"
+  authors:
+    - Shaiful Alam Chowdhury
+    - Varun Sapra
+    - Abram Hindle
+  venue: SANER
+  year: 2016
+  doi: 10.1109/SANER.2016.77
+
 - title: "EcoDroid: An Approach for Energy-Based Ranking of Android Apps.** GREENS. 2015"
   authors:
     - Reyhaneh Jabbarvand Behrouz
