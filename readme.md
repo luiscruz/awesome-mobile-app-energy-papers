@@ -16,6 +16,8 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 ### 2019
 
+- Fabio Palomba, Dario Di Nucci, Annibale Panichella, Andy Zaidman, Andrea De Lucia. **On the Impact of Code Smells on the Energy Consumption of Mobile Applications**. Journal of Information and Software Technology. 2019. [![DOI](https://zenodo.org/badge/doi/10.1016/j.infsof.2018.08.004.svg)](https://doi.org/10.1016/j.infsof.2018.08.004)
+
 - Shaiful Alam Chowdhury, Abram Hindle, Rick Kazman, Takumi Shuto, Ken Matsui, Yasutaka Kamei. **GreenBundle: An Empirical Study on the Energy Impact of Bundled Processing**. ICSE. 2019. [Preprint](http://posl.ait.kyushu-u.ac.jp/~kamei/publications/Chowdhury_ICSE2019.pdf)
 
 - Luis Cruz, Rui Abreu. **Catalog of Energy Patterns for Mobile Applications**. Empirical Software Engineering. 2019. [Preprint](https://arxiv.org/abs/1901.03302) [![DOI](https://zenodo.org/badge/doi/10.1007/s10664-019-09682-0.svg)](https://doi.org/10.1007/s10664-019-09682-0)

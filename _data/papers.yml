@@ -1,3 +1,14 @@
+- title: "On the Impact of Code Smells on the Energy Consumption of Mobile Applications"
+  authors:
+    - Fabio Palomba
+    - Dario Di Nucci
+    - Annibale Panichella
+    - Andy Zaidman
+    - Andrea De Lucia
+  venue: "Journal of Information and Software Technology"
+  year: 2019
+  doi: 10.1016/j.infsof.2018.08.004
+
 - title: "GreenBundle: An Empirical Study on the Energy Impact of Bundled Processing"
   authors:
     - Shaiful Alam Chowdhury
