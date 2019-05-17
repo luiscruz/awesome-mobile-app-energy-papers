@@ -22,7 +22,7 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 ### {{ year.name }}
 
 {% for paper in year.items %}
-- {{paper.authors | join: ", "}}. **{{paper.title}}**. {{paper.venue}}. {{paper.year}}.{% if paper.preprint%} [Preprint]({{paper.preprint}}){% endif %}{% if paper.doi%} [![DOI](https://zenodo.org/badge/doi/{{paper.doi}}.svg)](https://doi.org/{{paper.doi}}){% endif %}
+- {{paper.authors | join: ", "}}. **{{paper.title}}**. {{paper.venue}}. {{paper.year}}.{% if paper.preprint%} [Preprint]({{paper.preprint}}){% endif %}{% if paper.doi%} [![DOI](https://data.caltech.edu/badge/doi/{{paper.doi}}.svg)](https://doi.org/{{paper.doi}}){% endif %}
 {% endfor %}
 {% endfor %}
 
