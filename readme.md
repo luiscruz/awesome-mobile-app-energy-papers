@@ -16,6 +16,8 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 ### 2019
 
+- Seokjun Lee, Minyoung Go, Rhan Ha, Hojung Cha. **Provisioning of energy consumption information for mobile ads**. Pervasive and Mobile Computing. 2019. [![DOI](https://data.caltech.edu/badge/doi/10.1016/j.pmcj.2019.01.002.svg)](https://doi.org/10.1016/j.pmcj.2019.01.002)
+
 - Luis Cruz, Rui Abreu, John Grundy, Li Li, Xin Xia. **Do Energy-oriented Changes Hinder Maintainability?**. ICSME. 2019. [Preprint](https://arxiv.org/abs/1908.08332)
 
 - Luis Cruz, Rui Abreu. **EMaaS: energy measurements as a service for mobile applications**. ICSE (NIER). 2019. [Preprint](https://arxiv.org/abs/1902.02605) [![DOI](https://data.caltech.edu/badge/doi/10.1109/ICSE-NIER.2019.00034.svg)](https://doi.org/10.1109/ICSE-NIER.2019.00034)
