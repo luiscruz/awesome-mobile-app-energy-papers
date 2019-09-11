@@ -1,3 +1,34 @@
+- title: "Do Energy-oriented Changes Hinder Maintainability?"
+  authors:
+    - Luis Cruz
+    - Rui Abreu
+    - John Grundy
+    - Li Li
+    - Xin Xia
+  venue: ICSME
+  year: 2019
+  preprint: https://arxiv.org/abs/1908.08332
+
+- title: "EMaaS: energy measurements as a service for mobile applications"
+  authors:
+    - Luis Cruz
+    - Rui Abreu
+  venue: ICSE (NIER)
+  year: 2019
+  doi: 10.1109/ICSE-NIER.2019.00034
+  preprint: https://arxiv.org/abs/1902.02605
+
+- title: "On the Impact of Code Smells on the Energy Consumption of Mobile Applications"
+  authors:
+    - Fabio Palomba
+    - Dario Di Nucci
+    - Annibale Panichella
+    - Andy Zaidman
+    - Andrea De Lucia
+  venue: "Journal of Information and Software Technology"
+  year: 2019
+  doi: 10.1016/j.infsof.2018.08.004
+
 - title: "On the Impact of Code Smells on the Energy Consumption of Mobile Applications"
   authors:
     - Fabio Palomba

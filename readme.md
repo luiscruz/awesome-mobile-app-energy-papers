@@ -16,6 +16,12 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 ### 2019
 
+- Luis Cruz, Rui Abreu, John Grundy, Li Li, Xin Xia. **Do Energy-oriented Changes Hinder Maintainability?**. ICSME. 2019. [Preprint](https://arxiv.org/abs/1908.08332)
+
+- Luis Cruz, Rui Abreu. **EMaaS: energy measurements as a service for mobile applications**. ICSE (NIER). 2019. [Preprint](https://arxiv.org/abs/1902.02605) [![DOI](https://data.caltech.edu/badge/doi/10.1109/ICSE-NIER.2019.00034.svg)](https://doi.org/10.1109/ICSE-NIER.2019.00034)
+
+- Fabio Palomba, Dario Di Nucci, Annibale Panichella, Andy Zaidman, Andrea De Lucia. **On the Impact of Code Smells on the Energy Consumption of Mobile Applications**. Journal of Information and Software Technology. 2019. [![DOI](https://data.caltech.edu/badge/doi/10.1016/j.infsof.2018.08.004.svg)](https://doi.org/10.1016/j.infsof.2018.08.004)
+
 - Fabio Palomba, Dario Di Nucci, Annibale Panichella, Andy Zaidman, Andrea De Lucia. **On the Impact of Code Smells on the Energy Consumption of Mobile Applications**. Journal of Information and Software Technology. 2019. [![DOI](https://data.caltech.edu/badge/doi/10.1016/j.infsof.2018.08.004.svg)](https://doi.org/10.1016/j.infsof.2018.08.004)
 
 - Shaiful Alam Chowdhury, Abram Hindle, Rick Kazman, Takumi Shuto, Ken Matsui, Yasutaka Kamei. **GreenBundle: An Empirical Study on the Energy Impact of Bundled Processing**. ICSE. 2019. [Preprint](http://posl.ait.kyushu-u.ac.jp/~kamei/publications/Chowdhury_ICSE2019.pdf)
@@ -108,7 +114,7 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 - Kent Rasmussen, Alex Wilson, Abram Hindle. **Green mining: energy consumption of advertisement blocking methods**. GREENS. 2014. [![DOI](https://data.caltech.edu/badge/doi/10.1145/2593743.2593749.svg)](https://doi.org/10.1145/2593743.2593749)
 
-- Ding Li, Angelica Huyen Tran, William GJ Halfond. **Making web applications more energy efficient for OLED smartphones**. ICSE. 2014. [![DOI](https://data.caltech.edu/badge/doi/doi/10.1145/2568225.2568321.svg)](https://doi.org/doi/10.1145/2568225.2568321)
+- Ding Li, Angelica Huyen Tran, William GJ Halfond. **Making web applications more energy efficient for OLED smartphones**. ICSE. 2014. [![DOI](https://data.caltech.edu/badge/doi/10.1145/2568225.2568321.svg)](https://doi.org/10.1145/2568225.2568321)
 
 ### 2013
 
