@@ -24,9 +24,9 @@ For news and related content check out my [website](https://luiscruz.github.io/)
 
 - Luis Cruz, Rui Abreu. **EMaaS: energy measurements as a service for mobile applications**. ICSE (NIER). 2019. [Preprint](https://arxiv.org/abs/1902.02605) [![DOI](https://data.caltech.edu/badge/doi/10.1109/ICSE-NIER.2019.00034.svg)](https://doi.org/10.1109/ICSE-NIER.2019.00034)
 
-- Rui Rua, Marco Couto, João Saraiva. **GreenSource: a large-scale collection of Android code, tests and energy metrics**. . 2019. [![DOI](https://data.caltech.edu/badge/doi/10.1109/MSR.2019.00035.svg)](https://doi.org/10.1109/MSR.2019.00035)
+- Rui Rua, Marco Couto, João Saraiva. **GreenSource: a large-scale collection of Android code, tests and energy metrics**. MSR. 2019. [![DOI](https://data.caltech.edu/badge/doi/10.1109/MSR.2019.00035.svg)](https://doi.org/10.1109/MSR.2019.00035)
 
-- Hugo Matalonga, Bruno Cabral, Fernando Castor, Marco Couto, Rui Pereira, Simao Melo de Sousa, Joao Paulo Fernandes. **GreenHub farmer: real-world data for Android energy mining**. . 2019. [![DOI](https://data.caltech.edu/badge/doi/10.1109/MSR.2019.00034.svg)](https://doi.org/10.1109/MSR.2019.00034)
+- Hugo Matalonga, Bruno Cabral, Fernando Castor, Marco Couto, Rui Pereira, Simao Melo de Sousa, Joao Paulo Fernandes. **GreenHub farmer: real-world data for Android energy mining**. MSR. 2019. [![DOI](https://data.caltech.edu/badge/doi/10.1109/MSR.2019.00034.svg)](https://doi.org/10.1109/MSR.2019.00034)
 
 - Fabio Palomba, Dario Di Nucci, Annibale Panichella, Andy Zaidman, Andrea De Lucia. **On the Impact of Code Smells on the Energy Consumption of Mobile Applications**. Journal of Information and Software Technology. 2019. [![DOI](https://data.caltech.edu/badge/doi/10.1016/j.infsof.2018.08.004.svg)](https://doi.org/10.1016/j.infsof.2018.08.004)
 
