@@ -34,6 +34,26 @@
   doi: 10.1109/ICSE-NIER.2019.00034
   preprint: https://arxiv.org/abs/1902.02605
 
+- title: "GreenSource: a large-scale collection of Android code, tests and energy metrics"
+  authors:
+    - Rui Rua
+    - Marco Couto
+    - João Saraiva
+  year: 2019
+  doi: 10.1109/MSR.2019.00035
+
+- title: "GreenHub farmer: real-world data for Android energy mining"
+  authors:
+    - Hugo Matalonga
+    - Bruno Cabral
+    - Fernando Castor
+    - Marco Couto
+    - Rui Pereira
+    - Simao Melo de Sousa
+    - Joao Paulo Fernandes
+  year: 2019
+  doi: 10.1109/MSR.2019.00034
+
 - title: "On the Impact of Code Smells on the Energy Consumption of Mobile Applications"
   authors:
     - Fabio Palomba
