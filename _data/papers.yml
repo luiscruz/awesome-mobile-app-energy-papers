@@ -1,3 +1,12 @@
+- title: "On the Energy Footprint of Mobile Testing Frameworks"
+  authors:
+    - Luís Cruz
+    - Rui Abreu
+  venue: TSE
+  year: 2019
+  doi: 10.1109/TSE.2019.2946163
+  preprint: http://luiscruz.github.io/papers/cruz2019on.pdf
+
 - title: "Enforcing Green Code With Android Lint"
   authors:
     - Olivier Le Goaer
