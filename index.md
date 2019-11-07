@@ -10,7 +10,7 @@ The goal of this list is to provide relevant academic papers to mobile developer
 
 If you know an academic paper that should be listed here, please contribute to our GitHub repository: 
 
-https://github.com/luiscruz/awesome-mobile-app-energy-papers
+[https://github.com/luiscruz/awesome-mobile-app-energy-papers](https://github.com/luiscruz/awesome-mobile-app-energy-papers)
 
 As rule of thumb, the paper needs to be accepted in a relevant peer-reviewed conference/journal. Don't forget to read the [contribution guidelines](contributing.md).
 
