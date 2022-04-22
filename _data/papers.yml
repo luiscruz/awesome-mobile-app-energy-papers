@@ -1,3 +1,14 @@
+- title: "Evaluating the Impact of Caching on the Energy Consumption and Performance of Progressive Web Apps"
+  authors:
+    - Ivano Malavolta
+    - Katerina Chinnappan
+    - Lukas Jasmontas
+    - Sarthak Gupta
+    - Kaveh Ali Karam Soltany
+  venue: IEEE/ACM 7th International Conference on Mobile Software Engineering and Systems (MOBILESoft '20)
+  year: 2020
+  doi: 10.1145/3387905.3388593
+
 - title: "Energy Efficient Adaptation Engines for Android Applications"
   authors:
     - Angel Cañete
