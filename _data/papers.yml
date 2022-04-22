@@ -1,3 +1,12 @@
+- title: "How does Migrating to Kotlin Impact the Run-time Efficiency of Android Apps?"
+  authors:
+    - Michael Peters
+    - Gian Luca Scoccia
+    - Ivano Malavolta
+  venue: 21st IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM '21)
+  year: 2021
+  doi: 10.1109/SCAM52516.2021.00014
+
 - title: "Energy Efficient Adaptation Engines for Android Applications"
   authors:
     - Angel Cañete
