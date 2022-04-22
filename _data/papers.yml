@@ -1,3 +1,17 @@
+- title: "Investigating the correlation between performance scores and energy consumption of mobile web apps"
+  authors:
+    - Kwame Chan Jong Chu
+    - Tanjina Islam
+    - Miguel Morales Exposito
+    - Sanjay Sheombar
+    - Christian Valladares
+    - Olivier Philippot
+    - Eoin Martino Grua
+    - Ivano Malavolta
+  venue: International Conference on Evaluation and Assessment on Software Engineering (EASE '20)
+  year: 2020
+  doi: 10.1145/3383219.3383239
+
 - title: "Energy Efficient Adaptation Engines for Android Applications"
   authors:
     - Angel Cañete
