@@ -1,3 +1,15 @@
+- title: "Comparing the Energy Efficiency of WebAssembly and JavaScript in Web Applications on Android Mobile Devices"
+  authors:
+    - Max van Hasselt
+    - Kevin Huijzendveld
+    - Nienke Noort
+    - Sasja de Ruijter
+    - Tanjina Islam
+    - Ivano Malavolta
+  venue: In Proceedings of the International Conference on Evaluation and Assessment on Software Engineering (EASE '22)
+  year: 2022
+  preprint: https://www.ivanomalavolta.com/files/papers/EASE_2022_web_assembly.pdf
+
 - title: "Energy Efficient Adaptation Engines for Android Applications"
   authors:
     - Angel Cañete
