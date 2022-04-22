@@ -1,3 +1,15 @@
+- title: "Do You Have the Energy for This Meeting? An Empirical Study on the Energy Consumption of the Google Meet and Zoom Android apps"
+  authors:
+    - Leonhard Wattenbach
+    - Basel Aslan
+    - Matteo Maria Fiore
+    - Henley Ding
+    - Roberto Verdecchia
+    - Ivano Malavolta
+  venue: 9th IEEE/ACM International Conference on Mobile Software Engineering and Systems (MOBILESoft '22)
+  year: 2022
+  preprint: https://www.ivanomalavolta.com/files/papers/MOBILESoft_2022.pdf
+
 - title: "Energy Efficient Adaptation Engines for Android Applications"
   authors:
     - Angel Cañete
