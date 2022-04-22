@@ -1,3 +1,15 @@
+- title: "On the Impact of the Critical CSS Technique on the Performance and Energy Consumption of Mobile Browsers"
+  authors:
+    - Kalle Janssen
+    - Tim Pelle
+    - Lucas de Geus
+    - Reinier van der Gronden
+    - Tanjina Islam
+    - Ivano Malavolta
+  venue: International Conference on Evaluation and Assessment on Software Engineering (EASE '22)
+  year: 2022
+  preprint: https://www.ivanomalavolta.com/files/papers/EASE_2022_critical_css.pdf
+
 - title: "Energy Efficient Adaptation Engines for Android Applications"
   authors:
     - Angel Cañete
