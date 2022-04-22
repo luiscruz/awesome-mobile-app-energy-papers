@@ -1,3 +1,15 @@
+- title: "The Impact of Instant Messaging on the Energy Consumption of Android Devices"
+  authors:
+    - Stylianos Rammos
+    - Mansi Mundra
+    - Guijing Xu
+    - Chuyi Tong
+    - Wojciech Ziółkowski
+    - Ivano Malavolta
+  venue: 8th IEEE/ACM International Conference on Mobile Software Engineering and Systems (MOBILESoft '21)
+  year: 2021
+  doi: 10.1109/MobileSoft52590.2021.00007
+
 - title: "Energy Efficient Adaptation Engines for Android Applications"
   authors:
     - Angel Cañete
