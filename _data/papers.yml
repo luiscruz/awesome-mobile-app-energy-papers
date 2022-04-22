@@ -1,3 +1,17 @@
+- title: "A Framework for the Automatic Execution of Measurement-based Experiments on Android Devices"
+  authors:
+    - Ivano Malavolta
+    - Eoin Martino Grua
+    - Cheng-Yu Lam
+    - Randy de Vries
+    - Franky Tan
+    - Eric Zielinski
+    - Michael Peters
+    - Luuk Kaandorp
+  venue: IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW '20)
+  year: 2020
+  doi: 10.1145/3417113.3422184
+
 - title: "Energy Efficient Adaptation Engines for Android Applications"
   authors:
     - Angel Cañete
